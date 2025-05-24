@@ -1,0 +1,28 @@
+[
+
+
+
+
+
+    [
+        "com.treydev.volume", "3.8.5",
+        [
+            ["classes3.dex", "u5.1/d", "j", true]
+        
+        ]
+    ],
+      
+    
+    [
+        "com.tksksv.volume",
+        "3.8.5",
+        [
+            ["classes2.dex", "Lu5/d", "j", false]
+        ]
+    ]
+
+
+
+
+  
+]
