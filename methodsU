@@ -1,28 +1,3 @@
-[
-
-
-
-
-
-    [
-        "com.treydev.volume", "3.8.5",
-        [
-            ["classes3.dex", "u5.1/d", "j", true]
-        
-        ]
-    ],
-      
-    
-    [
-        "com.tksksv.volume",
-        "3.8.5",
-        [
-            ["classes2.dex", "Lu5/d", "j", false]
-        ]
-    ]
-
-
-
-
-  
-]
+PlySize:3507312
+PlayDexC:2
+PlayVerified:61ED377E85D386A8DFEE6B864BD85B0BFAA5AF81
